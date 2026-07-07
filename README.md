@@ -4,19 +4,19 @@ Estudos do módulo **Python Avançado** do curso Desenvolvedor Full Stack Python
 
 ## Conteúdo do módulo
 
-| Aula | Tema |
-|------|------|
-| Glossário | Termos essenciais de concorrência, execução e conceitos-chave |
-| Aula 1 | Síncrono, assíncrono e processos (GIL) |
-| Aula 2 | Yield e Generators |
-| Aula 3 | Coroutines e o event loop |
-| Aula 4 | CPU parte 1: multiprocessing |
-| Aula 5 | Threads parte 2 (race condition, Lock) |
-| Aula 6 | TDD (Test Driven Development) |
-| Aula 7 | Binary Search |
-| Aula 8 | Bubble Sort |
-| Aula 9 | Ferramentas, sites e comunidades |
-| Exercício final | Web scraping assíncrono (asyncio + aiohttp) |
+| Aula            | Tema                                                          |
+| --------------- | ------------------------------------------------------------- |
+| Glossário       | Termos essenciais de concorrência, execução e conceitos-chave |
+| Aula 1          | Síncrono, assíncrono e processos (GIL)                        |
+| Aula 2          | Yield e Generators                                            |
+| Aula 3          | Coroutines e o event loop                                     |
+| Aula 4          | CPU parte 1: multiprocessing                                  |
+| Aula 5          | Threads parte 2 (race condition, Lock)                        |
+| Aula 6          | TDD (Test Driven Development)                                 |
+| Aula 7          | Binary Search                                                 |
+| Aula 8          | Bubble Sort                                                   |
+| Aula 9          | Ferramentas, sites e comunidades                              |
+| Exercício final | Web scraping assíncrono (asyncio + aiohttp)                   |
 
 ## Estrutura
 
@@ -73,4 +73,4 @@ O arquivo é escrito em `docs/modulo_python_avancado.pdf`.
 
 ## Autor
 
-Willians — [github.com/Willsmt](https://github.com/Willsmt)
+Willians martins — [github.com/Willsmt](https://github.com/Willsmt)
