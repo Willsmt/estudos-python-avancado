@@ -1,0 +1,6 @@
+# Exercicio: web scraping assincrono
+aiohttp>=3.9
+beautifulsoup4>=4.12
+
+# Geracao da apostila
+reportlab>=4.0
